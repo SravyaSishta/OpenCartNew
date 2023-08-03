@@ -1,0 +1,315 @@
+18:20:39.024 [main] INFO  testCases.TC_001Registration - chrome browser has started
+18:20:39.583 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+18:20:39.593 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+18:20:39.696 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+18:20:39.902 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+18:20:42.459 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+18:20:42.482 [main] INFO  testCases.TC_001Registration - Test Passed
+18:20:42.484 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+18:21:01.117 [main] INFO  testCases.TC_001Registration - edge browsser has started
+18:21:01.657 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+18:21:01.667 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+18:21:01.715 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+18:21:01.932 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+18:21:04.526 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+18:21:04.551 [main] INFO  testCases.TC_001Registration - Test Passed
+18:21:04.552 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+18:35:34.063 [TestNG-tests-1] INFO  testCases.TC_001Registration - chrome browser has started
+18:35:34.713 [TestNG-tests-1] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+18:35:34.726 [TestNG-tests-1] INFO  testCases.TC_001Registration - Clicked on MyAccount
+18:35:34.920 [TestNG-tests-1] INFO  testCases.TC_001Registration - Clicked on Register linkt
+18:35:35.251 [TestNG-tests-1] INFO  testCases.TC_001Registration - Providing Customer Details
+18:35:35.277 [TestNG-tests-3] INFO  testCases.TC_001Registration - Firefox browsser has started
+18:35:35.669 [TestNG-tests-2] INFO  testCases.TC_001Registration - edge browsser has started
+18:35:35.892 [TestNG-tests-3] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+18:35:35.893 [TestNG-tests-3] INFO  testCases.TC_001Registration - Clicked on MyAccount
+18:35:36.154 [TestNG-tests-3] INFO  testCases.TC_001Registration - Clicked on Register linkt
+18:35:36.373 [TestNG-tests-2] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+18:35:36.374 [TestNG-tests-2] INFO  testCases.TC_001Registration - Clicked on MyAccount
+18:35:36.391 [TestNG-tests-3] INFO  testCases.TC_001Registration - Providing Customer Details
+18:35:36.432 [TestNG-tests-2] INFO  testCases.TC_001Registration - Clicked on Register linkt
+18:35:36.672 [TestNG-tests-2] INFO  testCases.TC_001Registration - Providing Customer Details
+18:35:38.283 [TestNG-tests-1] INFO  testCases.TC_001Registration - Clicked on Continue Button
+18:35:38.305 [TestNG-tests-1] INFO  testCases.TC_001Registration - Test Passed
+18:35:38.306 [TestNG-tests-1] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+18:35:38.989 [TestNG-tests-3] INFO  testCases.TC_001Registration - Clicked on Continue Button
+18:35:39.005 [TestNG-tests-3] INFO  testCases.TC_001Registration - Test Passed
+18:35:39.005 [TestNG-tests-3] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+18:35:39.241 [TestNG-tests-2] INFO  testCases.TC_001Registration - Clicked on Continue Button
+18:35:39.267 [TestNG-tests-2] INFO  testCases.TC_001Registration - Test Passed
+18:35:39.267 [TestNG-tests-2] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+18:38:16.789 [main] INFO  testCases.TC_001Registration - chrome browser has started
+18:38:17.448 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+18:38:17.458 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+18:38:17.506 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+18:38:17.710 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+18:38:20.268 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+18:38:20.292 [main] INFO  testCases.TC_001Registration - Test Passed
+18:38:20.293 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+17:26:06.748 [main] INFO  testCases.TC_001Registration - chrome browser has started
+17:31:56.500 [main] INFO  testCases.TC_001Registration - chrome browser has started
+17:32:34.914 [main] INFO  testCases.TC_001Registration - chrome browser has started
+17:32:36.054 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+17:32:36.071 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+17:32:36.196 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+17:32:36.599 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+17:32:39.481 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+17:32:39.511 [main] INFO  testCases.TC_001Registration - Test Passed
+17:32:39.513 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+11:21:50.503 [main] INFO  testCases.TC_001Registration - chrome browser has started
+11:21:51.169 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+11:21:51.181 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+11:21:51.257 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+11:21:51.459 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+11:21:53.999 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+11:21:54.022 [main] INFO  testCases.TC_001Registration - Test Passed
+11:21:54.024 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+11:23:55.842 [main] INFO  testCases.TC_001Registration - chrome browser has started
+11:23:56.345 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+11:23:56.354 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+11:23:56.515 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+11:23:56.695 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+11:23:57.106 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+11:24:05.705 [main] FATAL testCases.TC_001Registration - Test Failed
+14:42:59.261 [main] INFO  testCases.TC_001Registration - chrome browser has started
+14:42:59.964 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+14:42:59.979 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+14:43:00.121 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+14:43:00.466 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+14:43:01.017 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+14:43:05.431 [main] FATAL testCases.TC_001Registration - Test Failed
+15:10:21.575 [main] INFO  testCases.TC_001Registration - chrome browser has started
+15:10:22.239 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+15:10:22.250 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+15:10:22.436 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+15:10:22.789 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+15:10:25.541 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+15:10:25.565 [main] INFO  testCases.TC_001Registration - Test Passed
+15:10:25.566 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+15:10:26.623 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+15:10:27.255 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+15:12:28.593 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+15:12:29.419 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+15:12:59.003 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+15:12:59.661 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+15:17:04.344 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+15:17:05.506 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+15:18:54.481 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+15:18:55.198 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+15:25:01.581 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+15:25:02.254 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+15:58:59.951 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+15:59:00.671 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+16:05:37.451 [main] INFO  testCases.TC_001Registration - chrome browser has started
+16:05:38.394 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+16:05:38.402 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+16:05:38.446 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+16:05:38.783 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+16:05:41.521 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+16:05:41.552 [main] INFO  testCases.TC_001Registration - Test Passed
+16:05:41.554 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+16:05:42.751 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+16:05:43.652 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+16:35:39.163 [main] INFO  testCases.TC_001Registration - chrome browser has started
+16:35:39.876 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+16:35:39.886 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+16:35:40.007 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+16:35:40.328 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+16:35:43.125 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+16:35:43.153 [main] INFO  testCases.TC_001Registration - Test Passed
+16:35:43.155 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+16:35:44.291 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+16:35:44.943 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+16:38:07.014 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+16:38:07.850 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+16:39:45.560 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+16:39:46.342 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+17:00:01.590 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+17:00:03.405 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+17:06:14.051 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+17:06:14.740 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+17:09:24.968 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+17:09:25.718 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+17:14:06.460 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+17:16:14.430 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+17:18:50.811 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+17:23:51.588 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+17:31:12.907 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+17:34:46.335 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+17:35:19.391 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+17:35:23.683 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+18:15:15.184 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+18:15:19.472 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+14:31:18.866 [main] INFO  testCases.TC_001Registration - chrome browser has started
+14:31:19.994 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+14:31:20.012 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+14:31:20.061 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+14:31:20.344 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+14:31:20.991 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+14:31:21.024 [main] INFO  testCases.TC_001Registration - Test Passed
+14:31:21.026 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+14:32:52.871 [main] INFO  testCases.TC_001Registration - chrome browser has started
+14:32:53.715 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+14:32:53.726 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+14:32:53.851 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+14:32:54.129 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+14:32:54.888 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+14:32:54.926 [main] INFO  testCases.TC_001Registration - Test Passed
+14:32:54.928 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+14:34:43.064 [main] INFO  testCases.TC_001Registration - chrome browser has started
+14:34:43.951 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+14:34:43.963 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+14:34:44.090 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+14:34:44.344 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+14:34:44.994 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+14:34:45.024 [main] INFO  testCases.TC_001Registration - Test Passed
+14:34:45.025 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+14:34:46.868 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+14:34:47.755 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+14:39:38.510 [main] INFO  testCases.TC_001Registration - chrome browser has started
+14:39:39.398 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+14:39:39.408 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+14:39:39.524 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+14:39:39.767 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+14:39:40.410 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+14:39:40.440 [main] INFO  testCases.TC_001Registration - Test Passed
+14:39:40.441 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+14:39:42.248 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+14:39:43.089 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+14:45:38.579 [main] INFO  testCases.TC_001Registration - chrome browser has started
+14:45:39.447 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+14:45:39.462 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+14:45:39.523 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+14:45:39.811 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+14:45:40.430 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+14:45:40.455 [main] INFO  testCases.TC_001Registration - Test Passed
+14:45:40.456 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+14:45:42.422 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+14:45:43.287 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+14:46:04.216 [main] INFO  testCases.TC_002LoginPage - ********Ending TC_002 LoginPage********
+15:06:58.988 [main] INFO  testCases.TC_001Registration - chrome browser has started
+15:06:59.847 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+15:06:59.860 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+15:06:59.975 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+15:07:00.228 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+15:07:00.883 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+15:07:00.912 [main] INFO  testCases.TC_001Registration - Test Passed
+15:07:00.914 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+15:07:02.627 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+15:07:03.496 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+15:07:27.378 [main] INFO  testCases.TC_002LoginPage - ********Ending TC_002 LoginPage********
+20:57:37.475 [main] INFO  testCases.TC_003_LoginDataDrivenTest - chrome browser has started
+20:57:39.371 [main] INFO  testCases.TC_003_LoginDataDrivenTest - test case TC_003 LoginDataDrivenTest is started.....
+20:57:43.497 [main] INFO  testCases.TC_003_LoginDataDrivenTest - test case TC_003 LoginDataDrivenTest is started.....
+20:57:57.101 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:57:57.111 [main] INFO  testCases.TC_003_LoginDataDrivenTest - test case TC_003 LoginDataDrivenTest is started.....
+20:58:10.793 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:58:10.801 [main] INFO  testCases.TC_003_LoginDataDrivenTest - test case TC_003 LoginDataDrivenTest is started.....
+20:58:24.787 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+20:58:24.793 [main] INFO  testCases.TC_003_LoginDataDrivenTest - test case TC_003 LoginDataDrivenTest is started.....
+20:58:28.951 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Finished TC_003_LoginDataDrivenTest
+10:28:22.934 [main] INFO  testCases.TC_001Registration - chrome browser has started
+10:28:23.880 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+10:28:23.898 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+10:28:23.960 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+10:28:24.211 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+10:28:24.919 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+10:28:24.951 [main] INFO  testCases.TC_001Registration - Test Passed
+10:28:24.953 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+10:28:26.850 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+10:28:27.692 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+10:28:31.532 [main] INFO  testCases.TC_002LoginPage - ********Ending TC_002 LoginPage********
+10:29:39.813 [main] INFO  testCases.TC_001Registration - chrome browser has started
+10:29:40.588 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+10:29:40.604 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+10:29:40.786 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+10:29:41.036 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+10:29:41.693 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+10:29:41.733 [main] INFO  testCases.TC_001Registration - Test Passed
+10:29:41.734 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+15:43:40.151 [main] INFO  testCases.TC_001Registration - chrome browser has started
+15:44:14.096 [main] INFO  testCases.TC_001Registration - chrome browser has started
+15:44:14.985 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+15:44:14.996 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+15:44:15.127 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+15:44:15.387 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+15:44:16.066 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+15:44:16.100 [main] INFO  testCases.TC_001Registration - Test Passed
+15:44:16.103 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+19:23:49.757 [main] INFO  testCases.TC_001Registration - chrome browser has started
+19:23:50.700 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+19:23:50.724 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+19:23:51.265 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+19:23:51.676 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+19:23:52.833 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+19:23:52.898 [main] INFO  testCases.TC_001Registration - Test Passed
+19:23:52.901 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+22:15:56.458 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+22:15:57.464 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+22:16:01.226 [main] INFO  testCases.TC_002LoginPage - ********Ending TC_002 LoginPage********
+22:16:24.121 [main] INFO  testCases.TC_001Registration - chrome browser has started
+22:16:25.008 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+22:16:25.020 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+22:16:25.147 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+22:16:25.389 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+22:16:26.074 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+22:16:26.108 [main] INFO  testCases.TC_001Registration - Test Passed
+22:16:26.109 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+22:16:28.006 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+22:16:28.842 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+22:16:32.617 [main] INFO  testCases.TC_002LoginPage - ********Ending TC_002 LoginPage********
+10:33:25.807 [main] INFO  testCases.TC_001Registration - chrome browser has started
+10:33:26.679 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+10:33:26.690 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+10:33:26.803 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+10:33:27.071 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+10:33:27.787 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+10:33:27.827 [main] INFO  testCases.TC_001Registration - Test Passed
+10:33:27.828 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+10:33:29.841 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+10:33:30.705 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+10:33:34.549 [main] INFO  testCases.TC_002LoginPage - ********Ending TC_002 LoginPage********
+10:34:17.182 [main] INFO  testCases.TC_001Registration - chrome browser has started
+10:34:18.057 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+10:34:18.069 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+10:34:18.243 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+10:34:18.519 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+10:34:19.185 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+10:34:19.220 [main] INFO  testCases.TC_001Registration - Test Passed
+10:34:19.222 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+10:34:21.267 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+10:34:22.155 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+10:34:25.904 [main] INFO  testCases.TC_002LoginPage - ********Ending TC_002 LoginPage********
+12:20:17.232 [main] INFO  testCases.TC_001Registration - chrome browser has started
+12:20:18.077 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+12:20:18.094 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+12:20:18.286 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+12:20:18.552 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+12:20:19.346 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+12:20:19.379 [main] INFO  testCases.TC_001Registration - Test Passed
+12:20:19.387 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+12:20:21.957 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+12:20:22.812 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+12:20:26.796 [main] INFO  testCases.TC_002LoginPage - ********Ending TC_002 LoginPage********
+12:30:48.127 [main] INFO  testCases.TC_001Registration - chrome browser has started
+12:30:49.034 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+12:30:49.050 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+12:30:49.122 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+12:30:49.428 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+12:30:50.285 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+12:30:50.323 [main] INFO  testCases.TC_001Registration - Test Passed
+12:30:50.330 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+12:30:53.290 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+12:30:54.261 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+12:30:58.308 [main] INFO  testCases.TC_002LoginPage - ********Ending TC_002 LoginPage********
+12:34:56.009 [main] INFO  testCases.TC_001Registration - chrome browser has started
+12:34:56.919 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Started*********
+12:34:56.934 [main] INFO  testCases.TC_001Registration - Clicked on MyAccount
+12:34:57.192 [main] INFO  testCases.TC_001Registration - Clicked on Register linkt
+12:34:57.470 [main] INFO  testCases.TC_001Registration - Providing Customer Details
+12:34:58.334 [main] INFO  testCases.TC_001Registration - Clicked on Continue Button
+12:34:58.376 [main] INFO  testCases.TC_001Registration - Test Passed
+12:34:58.379 [main] INFO  testCases.TC_001Registration - ********TC_001Registration Testcase Finished*********
+12:35:00.857 [main] INFO  testCases.TC_002LoginPage - chrome browser has started
+12:35:01.705 [main] INFO  testCases.TC_002LoginPage - ********Starting TC_002 LoginPage********
+12:35:05.739 [main] INFO  testCases.TC_002LoginPage - ********Ending TC_002 LoginPage********
